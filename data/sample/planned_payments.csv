@@ -1,0 +1,73 @@
+payment_id,date,category,counterparty,amount,certainty,deferrable,uncertainty_pct,note
+PAY-001,2026-10-12,Equipment lease,LeasEquip France,3840.0,Contractual / statutory,False,0.0,
+PAY-002,2026-10-14,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+BILL-2026-0218,2026-10-15,Suppliers,Aciers Rhône-Métal,41069.59,bill received,False,0.0,Steel frames – 1st half
+PAY-003,2026-10-15,Social charges & income tax withheld,URSSAF / AGIRC-ARRCO / DGFiP (PAS),86000.0,Contractual / statutory,False,0.0,for previous month's payroll
+BILL-2026-0223,2026-10-15,Suppliers,Quincaillerie Pro Est,6212.56,bill received,False,0.0,Hardware & fittings
+PAY-004,2026-10-21,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+BILL-2026-0225,2026-10-22,Suppliers,Quincaillerie Pro Est,6011.58,bill received,False,0.0,Hardware & fittings
+PAY-005,2026-10-26,VAT,DGFiP,109780.0,Known (return prepared),False,0.0,VAT for 2026-09
+PAY-006,2026-10-28,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+BILL-2026-0227,2026-10-29,Suppliers,Quincaillerie Pro Est,6410.15,bill received,False,0.0,Hardware & fittings
+BILL-2026-0226,2026-10-29,Suppliers,TransAlp Logistique,22333.04,bill received,False,0.0,Transport Sep 2026
+BILL-2026-0229,2026-10-29,Suppliers,Holzwerk Bayern GmbH,147760.97,bill received,False,0.0,Timber & plywood – Oct 2026 delivery
+BILL-2026-0224,2026-10-29,Suppliers,Aciers Rhône-Métal,42319.76,bill received,False,0.0,Steel frames – 2nd half
+PAY-007,2026-10-30,Salaries,Employees (38 FTE),106000.0,Contractual / statutory,False,0.0,
+PAY-008,2026-11-03,"IT, telecom & software",Various (direct debits),2880.0,Contractual / statutory,False,0.0,
+PAY-009,2026-11-04,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PAY-010,2026-11-05,Bank loan repayment,Banque Régionale (CNC machine loan),8900.0,Contractual / statutory,False,0.0,principal + interest
+BILL-2026-0230,2026-11-05,Suppliers,Quincaillerie Pro Est,5965.56,bill received,False,0.0,Hardware & fittings
+PO-2601,2026-11-05,Suppliers,Vernis Écolo SAS,15961.99,purchase order,False,0.0,Finishes
+BILL-2026-0221,2026-11-05,Suppliers,Feutre & Textiles Lyonnais,39090.92,bill received,False,0.0,Acoustic felt & fabrics
+PAY-011,2026-11-09,Energy,Electricity & gas supplier (direct debit),14160.0,Contractual / statutory,False,0.0,
+PAY-012,2026-11-10,Equipment lease,LeasEquip France,3840.0,Contractual / statutory,False,0.0,
+PAY-013,2026-11-11,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PO-2603,2026-11-12,Suppliers,Quincaillerie Pro Est,6312.02,purchase order,False,0.0,Hardware & fittings
+PAY-014,2026-11-16,Social charges & income tax withheld,URSSAF / AGIRC-ARRCO / DGFiP (PAS),86000.0,Contractual / statutory,False,0.0,for previous month's payroll
+PAY-015,2026-11-18,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+BILL-2026-0228,2026-11-19,Suppliers,Aciers Rhône-Métal,39736.28,bill received,False,0.0,Steel frames – 1st half
+PO-2605,2026-11-19,Suppliers,Holzwerk Bayern GmbH,155000.0,purchase order,False,0.0,Winter timber pre-order (3% volume discount) + Azur Cannes & Antibes materials
+PO-2606,2026-11-19,Suppliers,Quincaillerie Pro Est,5733.61,purchase order,False,0.0,Hardware & fittings
+PAY-016,2026-11-24,VAT,DGFiP,102020.0,Estimate (from invoices & bills),False,10.0,VAT for 2026-10
+PAY-017,2026-11-25,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PAY-018,2026-11-25,Capex,Biesse-type edge-bander supplier,34560.0,Planned – can be deferred,True,0.0,30% deposit on EUR 96k machine; delivery Feb 2027
+PO-2608,2026-11-26,Suppliers,Quincaillerie Pro Est,4824.61,purchase order,False,0.0,Hardware & fittings
+PO-2607,2026-11-26,Suppliers,TransAlp Logistique,20167.63,purchase order,False,0.0,Transport Oct 2026
+PAY-019,2026-11-30,Salaries,Employees (38 FTE),106000.0,Contractual / statutory,False,0.0,
+PAY-020,2026-12-02,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PAY-021,2026-12-03,"IT, telecom & software",Various (direct debits),2880.0,Contractual / statutory,False,0.0,
+PO-2612,2026-12-03,Suppliers,Quincaillerie Pro Est,5397.13,purchase order,False,0.0,Hardware & fittings
+PO-2610,2026-12-03,Suppliers,Holzwerk Bayern GmbH,122067.94,purchase order,False,0.0,Timber & plywood – Nov 2026 delivery
+PO-2604,2026-12-03,Suppliers,Aciers Rhône-Métal,38640.25,purchase order,False,0.0,Steel frames – 2nd half
+PAY-022,2026-12-07,Bank loan repayment,Banque Régionale (CNC machine loan),8900.0,Contractual / statutory,False,0.0,principal + interest
+PAY-023,2026-12-08,Energy,Electricity & gas supplier (direct debit),14160.0,Contractual / statutory,False,0.0,
+PAY-024,2026-12-09,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PO-2602,2026-12-10,Suppliers,Feutre & Textiles Lyonnais,41299.78,purchase order,False,0.0,Acoustic felt & fabrics
+PO-2615,2026-12-10,Suppliers,Quincaillerie Pro Est,5324.41,purchase order,False,0.0,Hardware & fittings
+PAY-025,2026-12-10,Equipment lease,LeasEquip France,3840.0,Contractual / statutory,False,0.0,
+PO-2614,2026-12-10,Suppliers,Vernis Écolo SAS,12890.35,purchase order,False,0.0,Finishes
+PAY-026,2026-12-15,Business property tax,DGFiP,6200.0,Contractual / statutory,False,0.0,
+PAY-028,2026-12-15,Corporate income tax instalment,DGFiP,24500.0,Contractual / statutory,False,0.0,acompte d'IS
+PAY-027,2026-12-15,Social charges & income tax withheld,URSSAF / AGIRC-ARRCO / DGFiP (PAS),86000.0,Contractual / statutory,False,0.0,for previous month's payroll
+PAY-029,2026-12-16,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PO-2617,2026-12-17,Suppliers,Quincaillerie Pro Est,4927.08,purchase order,False,0.0,Hardware & fittings
+PO-2609,2026-12-17,Suppliers,Aciers Rhône-Métal,33897.38,purchase order,False,0.0,Steel frames – 1st half
+PAY-030,2026-12-23,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PO-2618,2026-12-24,Suppliers,TransAlp Logistique,24098.48,purchase order,False,0.0,Transport Nov 2026
+PO-2611,2026-12-24,Suppliers,Aciers Rhône-Métal,38400.0,purchase order,False,0.0,Steel – Azur Cannes & Antibes
+PAY-031,2026-12-24,VAT,DGFiP,89420.0,Estimate (from invoices & bills),False,10.0,VAT for 2026-11
+PAY-032,2026-12-30,Card & sundry spending,"Fuel, travel, consumables",1800.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PAY-033,2026-12-31,Salaries,Employees (38 FTE),72000.0,Contractual / statutory,False,0.0,"13th-month bonus, paid with December salaries"
+PAY-034,2026-12-31,Salaries,Employees (38 FTE),106000.0,Contractual / statutory,False,0.0,
+PO-2619,2026-12-31,Suppliers,Quincaillerie Pro Est,4961.84,purchase order,False,0.0,Hardware & fittings
+PO-2616,2026-12-31,Suppliers,Aciers Rhône-Métal,34980.4,purchase order,False,0.0,Steel frames – 2nd half
+PO-2620,2026-12-31,Suppliers,Holzwerk Bayern GmbH,97624.95,purchase order,False,0.0,Timber & plywood – Dec 2026 delivery
+PAY-035,2027-01-04,Rent,SCI Les Ateliers du Rhône (landlord),23400.0,Contractual / statutory,False,0.0,
+PAY-036,2027-01-04,"IT, telecom & software",Various (direct debits),2880.0,Contractual / statutory,False,0.0,
+PAY-037,2027-01-04,Insurance,Insurer,7800.0,Contractual / statutory,False,0.0,
+PAY-038,2027-01-05,Bank loan repayment,Banque Régionale (CNC machine loan),8900.0,Contractual / statutory,False,0.0,principal + interest
+PAY-039,2027-01-06,Card & sundry spending,"Fuel, travel, consumables",4700.0,Estimate (run-rate),False,15.0,"Run-rate estimate (avg of last 26 weeks, rounded)"
+PO-2622,2027-01-07,Suppliers,Vernis Écolo SAS,11650.08,purchase order,False,0.0,Finishes
+PO-2621,2027-01-07,Suppliers,Quincaillerie Pro Est,4431.72,purchase order,False,0.0,Hardware & fittings
+PO-2613,2027-01-07,Suppliers,Feutre & Textiles Lyonnais,34305.96,purchase order,False,0.0,Acoustic felt & fabrics
+PAY-040,2027-01-08,Energy,Electricity & gas supplier (direct debit),14160.0,Contractual / statutory,False,0.0,

@@ -1,0 +1,11 @@
+[project]
+name = "cash-radar"
+version = "1.0.0"
+description = "A 13-week cash forecast that warns a CFO before cash runs short, explains why and suggests actions."
+authors = [{ name = "Manibalan Amaranathan" }]
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

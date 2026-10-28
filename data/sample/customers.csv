@@ -1,0 +1,13 @@
+customer_id,customer_name,segment,country,payment_terms_days,payment_method
+C01,Lumen Hospitality Group,Hospitality (projects),FR,60,Bank transfer
+C02,Bâtir Bureaux SAS,Office fit-out contractor,FR,60,Bank transfer
+C03,Espace & Co Aménagement,Office fit-out contractor,FR,60,Bank transfer
+C04,Nova Interiors SARL,Office fit-out contractor,FR,45,Bank transfer
+C05,Officea Distribution,Furniture distributor,FR,45,LCR (bill of exchange)
+C06,Mobilier Pro Rhône,Furniture distributor,FR,45,Bank transfer
+C07,Studio Kaya Design,Office fit-out contractor,FR,30,Bank transfer
+C08,Université Lyon-Est,Public sector,FR,30,Bank transfer (Chorus Pro)
+C09,CHU Vallée du Rhône,Public sector (hospital),FR,50,Bank transfer (Chorus Pro)
+C10,Azur Collection Hôtels,Hospitality (projects),FR,45,Bank transfer
+C11,Hub & Desk Coworking SAS,Direct corporate client,FR,30,Bank transfer
+C12,Arkade Interiors SRL,Export distributor,BE,60,SEPA transfer
